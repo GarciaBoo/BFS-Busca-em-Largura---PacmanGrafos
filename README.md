@@ -1,6 +1,7 @@
 # Desafio Pacman - Trabalho de Grafos
+Código feito em colaboração com https://github.com/Gustavo-de-Oliveira
 
-## OBS
+## Obs:
 Para melhores detalhes verifique o PDF com a descrição do projeto.
 
 ## Introdução
